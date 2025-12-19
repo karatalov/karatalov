@@ -1,53 +1,115 @@
 <div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685169595473/aceae932-a496-47a7-8df9-b212d28f260a.png" alt="Header Banner" width="100%"/>
   
-  <h1>Привет, я karatalov 👋</h1>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="600"/>
-  
-  <p>
-    <strong>Full-Stack Developer</strong> из [твоя страна/город, если хочешь добавить]<br>
-    Пишу код на JavaScript/TypeScript, строю приложения от фронта до бэка.<br>
-    А в свободное время — гитарист 🎸 Рок, соло и риффы — мой второй стек!
-  </p>
-  
-  <img src="https://thumbs.dreamstime.com/b/silhouette-dark-spotlight-background-silhouette-dark-spotlight-background-illustration-guitarist-strumming-instrument-intense-368797400.jpg" width="500" alt="Guitar silhouette"/>
+# 👋 Привет, я karatalov
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;JavaScript+%2F+TypeScript;Rock+Guitarist+%F0%9F%8E%B8;Building+Cool+Stuff" alt="Typing SVG" />
+
+```ascii
+    ╔═══════════════════════════════════════╗
+    ║  💻 Code by Day | 🎸 Rock by Night  ║
+    ╚═══════════════════════════════════════╝
+```
+
 </div>
 
-### 🛠 Tech Stack
+---
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" alt="Redux"/>
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white" alt="Sass"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/BrowserSync-000000?logo=browsersync" alt="BrowserSync"/>
-<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" alt="Insomnia"/>
+## 🚀 О себе
 
-### 📊 GitHub Stats
+Full-Stack разработчик, который превращает кофе в код ☕→💻
 
-<img src="https://github-readme-stats.vercel.app/api?username=karatalov&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karatalov&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karatalov&theme=dark&hide_border=true" alt="Streak Stats"/>
-<img src="https://github-profile-trophy.vercel.app/?username=karatalov&theme=dark&no-frame=true&margin-w=15" alt="Trophies"/>
+- 🔭 Работаю с **JavaScript/TypeScript** экосистемой
+- 🌱 Постоянно изучаю новые технологии
+- 🎸 Гитарист — рок, соло и риффы это моя страсть!
+- ⚡ **Fun fact**: Могу отлаживать баги под соло Slash'а
 
-### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=karatalov&color=blue&style=flat-square" alt="Profile views"/>
+---
+
+## 🛠️ Технологии и инструменты
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Styling
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Статистика GitHub
 
 <div align="center">
-  <p>Связаться со мной:</p>
-  <a href="https://t.me/karatalovvn">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karatalov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karatalov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karatalov&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karatalov&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+---
+
+## 🎸 Music + Code = ❤️
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "karatalov";
+    this.role = "Full-Stack Developer";
+    this.languages = ["JavaScript", "TypeScript", "HTML", "CSS"];
+    this.hobbies = ["🎸 Guitar", "🎵 Rock Music", "💻 Coding"];
+  }
+
+  sayHi() {
+    console.log("Давай создадим что-то крутое вместе! 🚀");
+  }
+}
+
+const me = new Developer();
+me.sayHi();
+```
+
+---
+
+## 📫 Связаться со мной
+
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karatalovvn)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karatalov)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Случайная цитата для вдохновения
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👀 Просмотров профиля
+
+![Profile Views](https://komarev.com/ghpvc/?username=karatalov&color=00D9FF&style=for-the-badge)
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**⭐ Не забудь поставить звёздочку моим проектам, если они тебе понравиться
